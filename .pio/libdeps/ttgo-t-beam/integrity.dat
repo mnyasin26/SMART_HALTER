@@ -1,8 +1,8 @@
 https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library.git
-D:\Makerindo\dep\JY901
 sandeepmistry/LoRa@^0.8.0
-D:\Makerindo\dep\SoftRF\software\firmware\source\libraries\AXP202X_Library
-adafruit/Adafruit SSD1306@^2.5.7
 https://github.com/adafruit/Adafruit_AMG88xx.git
-D:\Makerindo\dep\SoftRF\software\firmware\source\libraries\TinyGPSPlus
 D:\libs\oximeter\oximeter lib
+D:\libs\SoftRF\software\firmware\source\libraries\AXP202X_Library
+D:\libs\JY901
+D:\libs\SoftRF\software\firmware\source\libraries\TinyGPSPlus
+adafruit/Adafruit SSD1306@^2.5.7

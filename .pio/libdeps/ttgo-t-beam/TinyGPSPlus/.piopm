@@ -1,1 +1,1 @@
-{"type": "library", "name": "TinyGPSPlus", "version": "1.0.0", "spec": {"owner": null, "id": null, "name": "TinyGPSPlus", "requirements": null, "uri": "file://D:\\Makerindo\\dep\\SoftRF\\software\\firmware\\source\\libraries\\TinyGPSPlus"}}
+{"type": "library", "name": "TinyGPSPlus", "version": "1.0.0", "spec": {"owner": null, "id": null, "name": "TinyGPSPlus", "requirements": null, "uri": "file://D:\\libs\\SoftRF\\software\\firmware\\source\\libraries\\TinyGPSPlus"}}
